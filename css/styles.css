@@ -12,10 +12,7 @@
   --background-color: #88d28b;
   --text-color: #091e0a;
 }
-[data-theme='pickles'] {
-  --background-color: #7700ff;
-  --text-color: #5e705f;
-}
+
 
 [data-theme='tomato'] {
   --background-color: #f46e6e;
