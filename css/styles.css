@@ -3,33 +3,33 @@
   --link-color-dark: #190070;
 }
 
-[data-theme="cheese"] {
+[data-theme='cheese'] {
   --background-color: #f3ca5f;
   --text-color: #3a1e0e;
 }
 
-[data-theme="lettuce"] {
+[data-theme='lettuce'] {
   --background-color: #88d28b;
   --text-color: #091e0a;
 }
-[data-theme="pickles"] {
+[data-theme='pickles'] {
   --background-color: #7700ff;
-  --text-color: #091e0a;
+  --text-color: #5e705f;
 }
 
-[data-theme="tomato"] {
+[data-theme='tomato'] {
   --background-color: #f46e6e;
   --text-color: #1a0201;
 }
 
-[data-theme="beef"] {
+[data-theme='beef'] {
   --background-color: #ac5a30;
   --text-color: #170005;
 }
 
 html {
   font-size: 125%;
-  font-family: "Nunito", sans-serif;
+  font-family: 'Nunito', sans-serif;
   line-height: 1.4;
 }
 
@@ -65,7 +65,7 @@ a:active {
   left: 2px;
   width: 1em;
   background-color: rgba(125, 89, 69, 0.6);
-  content: "";
+  content: '';
 }
 
 .accordion:first-child {
